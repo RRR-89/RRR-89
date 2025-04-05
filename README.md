@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RRR-89
-- 👀 I’m interested in Machine-Learning
-- 🌱 I’m currently learning C++ and python
-- 💞️ I’m looking to collaborate on Neural Network
+- 👀 I’m interested in FPGA and verilog
+- 🌱 I’m currently learning Quartus prime
+- 💞️ I’m looking to collaborate on FPGA related projects
 - 📫 How to reach me Instagram - rrr_0809
 
 <!---
